@@ -1,0 +1,7 @@
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\bin\Debug\0157_ThanhTuan_LINQ.exe.config
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\bin\Debug\0157_ThanhTuan_LINQ.exe
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\bin\Debug\0157_ThanhTuan_LINQ.pdb
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\obj\Debug\0157_ThanhTuan_LINQ.csproj.AssemblyReference.cache
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\obj\Debug\0157_ThanhTuan_LINQ.csproj.CoreCompileInputs.cache
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\obj\Debug\0157_ThanhTuan_LINQ.exe
+D:\C_Sharp\BaiTapDiemDanh_C#\0157_ThanhTuan_LINQ\0157_ThanhTuan_LINQ\obj\Debug\0157_ThanhTuan_LINQ.pdb
